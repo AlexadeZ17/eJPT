@@ -9,10 +9,10 @@ Here I will also post some HackTheBox retired machines writeups of machines I so
 ## Index: Theory 
 - [Networking](https://github.com/AlexadeZ17/eJPT/tree/main/Networking) 📡
   - [Protocols](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/protocols.md) 🪧
-  - Internet Protocols
+  - [Internet Protocols](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/ip.md) 📟
   - [Routing](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/routing.md) 🛤️
   - [Link Layer Devices and Protocols](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/linklayer.md) 🔗
-  - TCP & UDP
+  - [TCP & UDP](https://github.com/AlexadeZ17/eJPT/tree/main/Networkingtcpudp.md) 🚠
   - [Firewall & Defense](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/fwall.md) 🧱
-  - DNS
-  - [Whireshark](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/whireshark) 🦈
+  - [DNS](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/dns.md) ✍️
+  - [Whireshark](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/whireshark.md) 🦈
