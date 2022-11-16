@@ -7,12 +7,12 @@ On this README.md you will find all considerations and important info. The index
 Here I will also post some HackTheBox retired machines writeups of machines I solve to train for the practical test.
 
 ## Index: Theory 
-- Networking
-  - Protocols
+- [Networking](https://github.com/AlexadeZ17/eJPT/tree/main/Networking) 📡
+  - [Protocols](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/protocols.md) 🪧
   - Internet Protocols
-  - Routing
-  - Link Layer Devices and Protocols
+  - [Routing](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/routing.md) 🛤️
+  - [Link Layer Devices and Protocols](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/linklayer.md) 🔗
   - TCP & UDP
-  - Firewall & Defense
+  - [Firewall & Defense](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/fwall.md) 🧱
   - DNS
-  - Whireshark
+  - [Whireshark](https://github.com/AlexadeZ17/eJPT/tree/main/Networking/whireshark) 🦈
