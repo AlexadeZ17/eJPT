@@ -6,7 +6,13 @@ On this README.md you will find all considerations and important info. The index
 
 Here I will also post some HackTheBox retired machines writeups of machines I solve to train for the practical test.
 
-## Index
-- Intro
-  - act I
-  - act II
+## Index: Theory 
+- Networking
+  - Protocols
+  - Internet Protocols
+  - Routing
+  - Link Layer Devices and Protocols
+  - TCP & UDP
+  - Firewall & Defense
+  - DNS
+  - Whireshark
